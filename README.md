@@ -20,6 +20,7 @@ Here are a few highlights from my work:
   ##### Please click the link below to find more about the project
   #### [Enhancing Real-time Space Weather using Complex Deep Learning Techniques](space_weather_forecasting.md)
   - Utilized deep learning algorithms to predict DST index, resulting in accurate solar storm predictions.
+  - DST (Disturbance Storm Time) prediction is crucial in space weather forecasting as it quantifies the intensity of geomagnetic storms, which can affect satellite operations, power grids, and navigation systems. Accurate DST forecasting helps mitigate the adverse impacts of geomagnetic disturbances by enabling timely protective measures. This project leverages advanced deep learning techniques to enhance the precision and reliability of DST predictions using real-time solar wind data.
    ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/641ab551-16f0-404e-9e9e-39f46f51dad5)
 
 - **Child Sexual Abusive Material, detecting CSAM Links Using Machine Learning Algorithm**
