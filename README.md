@@ -21,7 +21,7 @@ Here are a few highlights from my work:
   #### [Enhancing Real-time Space Weather using Complex Deep Learning Techniques](space_weather_forecasting.md)
   - Utilized deep learning algorithms to predict DST index, resulting in accurate solar storm predictions.
 - **Child Sexual Abusive Material, detecting CSAM Links USING Machine Learning Algorithm**
-- ##### Funded by UK Government under Safety Tech Challenge
+ ##### Funded by UK Government under Safety Tech Challenge
   ##### Please click the link below to find more about the project
   - The escalating phenomenon of Child Sexual Abuse Material (CSAM) link shortening, and modification poses a significant threat in the online sphere. Traditional methods often prove inadequate in addressing this dynamic issue. The CSAMGuard project offers an innovative approach, leveraging machine learning to detect and prevent the propagation of CSAM. This paper delves into the project's background, objectives, key tasks, and the development of the Central CSAM Intelligence System (CCIS). It further explores the validation and assessment processes, evaluating the system's efficacy in real-world scenarios.
 
