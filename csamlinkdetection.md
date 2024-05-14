@@ -18,7 +18,8 @@ By handling missing values, it was ensured that the data has been prepared for f
 Merging and consolidating of dataset for enhanced analysis, the dataset preprocessed was consolidated and merged with URLs having CSAM and benign along with features for enhanced analysis.
 Categorical data encoding has been performed to convert categorical columns to numerical which are suitable for Machine Learning purpose. One hot encoding converts categorical columns to binary format. URLs present in dataset were effectively encoded using TFIDF Vectorizer which converted textual data into TF-IDF vectors.
 ## DATA VISUALIZATION
-![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/5320973b-868f-40d4-9c4d-43667fc7bef1)
+![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/c0942d24-0512-480c-acfb-bdbebcd0341a)
+
 
 Correlation heatmap and TF-IDF technique were employed to analyse the feature importance aligning with the URL classification. As per the map length, special characters, keywords contribute more towards url being CSAM /Benign.TF-IDF scores help identify the most relevant terms in a document by considering both their frequency within the document and their rarity across the entire document collection. They are often used for tasks such as document classification, information retrieval, and keyword extraction. For building robust results we have considered all features extracted and allowed ML model to retrieve results based on feature importance.
 ## VALIDATION TECHNIQUE UTILIZED
@@ -36,6 +37,7 @@ Correlation heatmap and TF-IDF technique were employed to analyse the feature im
  Plot showing accuracy comparison of different models
  ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/f3f9206e-faec-4a40-9e5f-d2a5086f0fca)
  ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/67c830ad-d6af-4d6d-8a52-bf190c11f446)
+ 
  ROC Curve and Confusion Matrix for best performing model Random Forest Classifier
  ROC Curve=1, RF model has achieved perfect discrimination between two classes.
  ## CONCLUSION
@@ -47,21 +49,49 @@ Class-Specific Performance: The model performs well for both classes, achieving 
 ## Integration of Machine Learning Model to Web Application!
 Streamlit, a Python library, seamlessly converts machine learning models into interactive web applications.
 User can input urls or upload bulk urls and check the prediction results
+
 ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/40da785a-cb2a-4a39-8fad-b5e0ad7121ab)
 ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/4e754129-9704-477b-a4d4-96e988bc7658)
 ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/9c407fc6-d935-4c81-9f32-51bdd102e6a1)
 ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/2276be90-a1a2-40cd-899d-8e9694d8bde3)
 ## Tested model with various 10 top url shortener provider services
 ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/99457163-aa6b-45b6-8736-72c99ce6f4fe)
+## CCIS API Validation
+In this section, the practical application of the API developed are presented, outlining its design, key components, and the testing process.
+API Design and Functionality: The API is structured to receive POST requests containing JSON data with a designated URL field. Subsequently, it utilizes a pre-trained machine learning model based on the Random Forest algorithm to classify the input, providing the prediction result in JSON format.
+ ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/a6da7888-32e8-4053-91ac-b6decb98849b)
+
+Key Components Used
+•	Flask: A web application framework utilized for building the API.
+•	Pandas: A data manipulation library for Python, aiding in data processing.
+•	Pickle: Python's built-in module for object serialization and deserialization.
+•	Requests: An HTTP library for Python, facilitating communication between the API and external entities.
+Machine Learning Model: The machine learning model implemented within the API employs the Random Forest algorithm, which has undergone thorough training to achieve optimal accuracy. This model serves as the backbone for predicting the classification of URLs.
+Testing Methodology: Extensive testing was conducted using Postman, a widely recognized API development tool. The objective was to ensure the correct functionality and reliability of the API under various scenarios. These scenarios encompassed both valid and invalid JSON requests to assess the API's robustness.
+ ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/16ea3e38-48c5-4a23-9b74-c0300d07c332)
+
+Postman Usage: To initiate testing, the URL to be evaluated was provided in JSON format within the Postman tool. Parameters were configured according to the specifications of the developed model. This comprehensive testing approach allowed for a meticulous examination of the API's responsiveness.
+ ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/c956ead3-b8a4-4167-bcd0-df396eb5f4b3)
+![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/33ecb11e-6fd5-4645-bda3-07a4282fcae9)
+
+ 
+Command Prompt Testing: Additionally, testing was performed through the command prompt using the curl tool. A POST request was made to a locally hosted server at http://127.0.0.1:5000/predict, demonstrating the API's functionality in a command-line environment.
+ ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/4c2201d6-b71e-4dc0-9fe9-c6a141478a25)
+
+In summary, the local API has undergone rigorous testing using industry-standard tools and methodologies, ensuring its reliability, accuracy, and seamless integration into various environments. The incorporation of machine learning, coupled with a well-defined API structure, positions this solution as a robust and effective tool for URL classification.
+
+
 ## Future Research Considerations
 - Intelligence Extraction from CSAM Content (CSAMGuard+)
 Collaboration with organizations like the Internet Watch Foundation (IWF) and short link service providers to leverage their expertise and data reservoirs.
 Implement advanced techniques to extract metadata from CSAM content, utilizing it as a pivotal feature for predictive models. Ethical data handling and adherence to privacy regulations remain paramount.
 ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/92ca5fbf-a95e-460b-b1e4-a2f8084ae75f)
+
 - Develop a comprehensive CSAM detection framework by Integrating existing solutions, including:
 GATE-like systems to refine search criteria and streamline webpage retrieval.
 - Sentiment analysis models to discern contextual cues.
 Image forensic analysis for identifying illicit content using AI algorithm for image comparison and similarity detection.
+
 
 
 
