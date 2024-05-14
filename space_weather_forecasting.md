@@ -1,4 +1,4 @@
-#### Enhancing Real Time Space Weather Using Complex Deep Learning Techniques
+# Enhancing Real Time Space Weather Using Complex Deep Learning Techniques
 ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/75eef2b6-11e4-4e9d-abfb-e360575e4ab0)
 
 
@@ -81,8 +81,9 @@ These satellites provide real-time solar wind data crucial for the project.
 
 ##### Results and Findings
 - **Improved Predictive Performance:** The project demonstrated significant improvements in the accuracy of DST forecasting using advanced deep learning models.
+
   ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/97f8985f-bae8-4a5d-b2f9-09f95ebc26a8)
-- Inference from Bi-LSTM +Bi-GRU Learning Curve
+# Inference from Bi-LSTM +Bi-GRU Learning Curve
 From epochs 1-5, both training and validation losses are high initially, indicating that the model is not performing well on the dataset. This could be due to the model learning the patterns and improving its performance. Epochs 6-10, the losses start to decrease, which is a positive sign. The model seems to be learning and generalizing better. Epochs 11-15, the losses continue to decrease, suggesting that the model is making progress The rate of improvement might slow down compared to earlier epochs. Epochs 16-20, there is a significant drop in both losses, indicating substantial improvement in the model’s performance. Epochs 21-30, the losses continue to decrease, but at a slower rate. Final epochs, the learning rate is reduced and both losses are relatively stable. The model might be approaching convergence.
  
 The Learning Curve shows a typical pattern of a model learning from the data. The decrease in loss values indicates that the model is becoming more accurate in predicting the target values. The validation loss is close to the training loss, suggesting that the model is generalizing well to unseen data. The choice of the learning rate schedule, dropout rate and other hyper-parameters seems to be effective for this model.
