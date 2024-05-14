@@ -35,7 +35,7 @@ Here are a few highlights from my work:
 
 - **German Used Car Sales Forecasting Model**
   ##### Please click the link below to find more about the project
-  #### [Child Sexual Abusive Material Detection](csamlinkdetection.md)
+  #### [Exploring Used Car Listings on ebay in Germany:](usedcarssalesingermany.md)
   - Developed a machine learning model to predict used car sales, enabling the market to optimize price levels.
   - This study investigates the factors influencing used car prices in Germany using a comprehensive Kaggle dataset. By employing machine learning algorithms such as Linear Regression, Decision Tree Regression, Random Forest Regression, and Gradient Boosting Regression, we identify key relationships between car attributes and selling prices. Our findings highlight that the Gradient Boosting Regression model provides the most accurate price predictions, offering valuable insights for optimizing pricing strategies in the used car market.
   - 
