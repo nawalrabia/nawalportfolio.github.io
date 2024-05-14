@@ -38,3 +38,8 @@ I'm always eager to connect with fellow data enthusiasts and professionals. Feel
 
 Thank you for visiting my portfolio. I'm excited to share my work with you and look forward to any opportunities to collaborate and innovate in the field of data science.
 
+### Recent Completed Projects 
+
+#### Enhancing Real Time Space Weather Using Complex Deep Learning Techniquess
+
+Geomagnetic fields play a pivotal role in various applications, from navigation systems to scientific research and space weather monitoring. Accurate modeling is essential for their reliable use. This project presents a benchmark study addressing the need for precise geomagnetic field modeling. The primary objective is to establish a standardized model for evaluating and advancing geomagnetic field models, utilizing real-time solar wind data to improve predictive performance.
