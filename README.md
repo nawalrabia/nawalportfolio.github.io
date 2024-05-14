@@ -36,7 +36,8 @@ Here are a few highlights from my work:
   ##### Please click the link below to find more about the project
   #### [Child Sexual Abusive Material Detection](csamlinkdetection.md)
   - Developed a machine learning model to predict used car sales, enabling the market to optimize price levels.
-    ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/5e007707-9d2e-4db9-ac5d-5b99ce410b9d)
+    ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/cc97f129-42ef-4341-b9e0-873e3de73cb2)
+
 
 
 - **Data Driven Dress Recommendation**
