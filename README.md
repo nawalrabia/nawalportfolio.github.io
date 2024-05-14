@@ -33,7 +33,11 @@ Here are a few highlights from my work:
   
 
 - **German Used Car Sales Forecasting Model**
+  ##### Please click the link below to find more about the project
+  #### [Child Sexual Abusive Material Detection](csamlinkdetection.md)
   - Developed a machine learning model to predict used car sales, enabling the market to optimize price levels.
+    ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/5e007707-9d2e-4db9-ac5d-5b99ce410b9d)
+
 
 - **Data Driven Dress Recommendation**
   - Created a ML model to understand dress sales across different seasons, improving decision-making efficiency.
