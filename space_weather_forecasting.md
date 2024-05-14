@@ -76,7 +76,7 @@ These satellites provide real-time solar wind data crucial for the project.
   
  
 - **Model Comparison:** Compared the performance of different models using standardized evaluation metrics.
-- ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/14781110-5035-460f-87ce-c63437e2a263)
+  ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/14781110-5035-460f-87ce-c63437e2a263)
 
 
 ##### Results and Findings
