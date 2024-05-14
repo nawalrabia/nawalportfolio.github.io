@@ -18,7 +18,7 @@ Here are a few highlights from my work:
 - **Enhancing Real-time Space Weather using Complex Deep Learning Techniques**
   ##### Please click the link below to find more about the project
   #### [Enhancing Real-time Space Weather using Complex Deep Learning Techniques](space_weather_forecasting.md)
-  <span style="color: green;">Fascinated about Northern Lights? "Fascinated by the Northern Lights? This aurora phenomenon results from severe solar storms"</span>
+  <span style="color: green;">"Fascinated by the Northern Lights? This aurora phenomenon results from severe solar storms"</span>
   ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/c9d156c3-17b5-4be8-833e-fd74f1de2412)
 
 
