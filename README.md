@@ -1,5 +1,5 @@
 # Welcome to My GitHub Portfolio!
-
+![Profile Picture](./IMG_0939.jpeg)
 ### About Me
 Hello! I'm a Data Science and Analysis professional with a Master’s degree (Distinction) from Coventry University and over five years of experience at Accenture. My passion lies in transforming complex data into strategic insights that drive impactful business solutions.
 
