@@ -6,7 +6,7 @@ Hello! I'm a Data Science and Analysis professional with a Master’s degree (Di
 
 ### Skills and Expertise
 - **Programming Languages:** SQL, Python
-- **Data Visualization:** Tableau
+- **Data Visualization:** Tableau, python libraries such as matplotlib, seaborn
 - **Machine Learning & Deep Learning:** Expertise in building, training, and deploying models
 - **Data Analysis:** Strong analytical skills with a knack for uncovering patterns and trends
 
