@@ -46,7 +46,7 @@ These satellites provide real-time solar wind data crucial for the project.
 
 
 
-- **Correlation Analysis:** Examine the relationships between different solar wind parameters and the DST index.
+- **Correlation Analysis:** Examined the relationships between different solar wind parameters and the DST index.
    ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/e800dfeb-b3c4-4d48-b07c-fcd6b5614b9a)
 
 ##### Data Analysis
