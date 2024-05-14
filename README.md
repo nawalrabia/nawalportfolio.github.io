@@ -18,8 +18,8 @@ Here are a few highlights from my work:
 
 - **Enhancing Real-time Space Weather using Complex Deep Learning Techniques**
   ##### Please click the link below to find more about the project
- #### [Enhancing Real-time Space Weather using Complex Deep Learning Techniques](space_weather_forecasting.md)
-  -  Utilized deep learning algorithms to predict DST index, resulting in accurate solar storm predictions.
+  #### [Enhancing Real-time Space Weather using Complex Deep Learning Techniques](space_weather_forecasting.md)
+  - Utilized deep learning algorithms to predict DST index, resulting in accurate solar storm predictions.
 - **Child Sexual Abusive Material, detecting CSAM Links USING Machine Learning Algorithm**
 - ##### Funded by UK Government under Safety Tech Challenge
   ##### Please click the link below to find more about the project
