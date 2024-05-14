@@ -11,3 +11,11 @@ This study investigates the factors influencing used car prices in Germany using
 3. **Visualize data using Tableau or Python libraries:** Use visualization tools to interpret findings effectively.
 4. **Implement machine learning models:** Evaluate and apply models like Linear Regression, Decision Tree, Random Forest, and Gradient Boosting for price prediction.
 5. **Discuss findings and insights:** Present a detailed discussion of the results and their implications for the used car market.
+
+### Detailed Project Sections
+
+- [Data Loading and Processing](data_loading_and_processing.md)
+- [Data Exploration and Analysis](data_exploration_and_analysis.md)
+- [Data Visualization](data_visualization.md)
+- [Machine Learning Models](machine_learning_models.md)
+- [Findings and Insights](findings_and_insights.md)
