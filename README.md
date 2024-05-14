@@ -1,8 +1,5 @@
 # Welcome to My GitHub Portfolio!
-<img src="path/to/your/picture.jpg" alt="Description" width="400"/>
-
-
-
+![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/654fbf27-3c61-4b46-b50d-b9029f239291)
 ### About Me
 Hello! I'm a Data Science and Analysis professional with a Master’s degree (Distinction) from Coventry University and over five years of experience at Accenture. My passion lies in transforming complex data into strategic insights that drive impactful business solutions.
 
@@ -43,15 +40,9 @@ Here are a few highlights from my work:
   - 
     ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/39423ea2-bdaf-446e-b0f3-cff65d025dfa)
 
-
-
-
-
-
 - **Data Driven Dress Recommendation**
   - Created a ML model to understand dress sales across different seasons, improving decision-making efficiency.
     
-
 ### My Mission
 I'm dedicated to pushing the boundaries of data science and machine learning to create innovative solutions. I thrive in environments where I can collaborate with cross-functional teams to translate complex data into strategic insights and drive business success.
 
