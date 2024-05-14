@@ -10,10 +10,12 @@ Hello! I'm a Data Science and Analysis professional with a Master’s degree (Di
 - **Data Analysis:** Strong analytical skills with a knack for uncovering patterns and trends
 
 ### What I Do
-In my role at Accenture, I've honed my skills in leveraging data to solve real-world problems. Whether it's developing predictive models, performing deep data analysis, or creating interactive dashboards, my goal is to provide actionable insights that help businesses make informed decisions.
+At Accenture, my primary role involves application development and support, focusing on integrating data-driven solutions to enhance business operations. My expertise lies in leveraging complex datasets to build and maintain robust applications that improve service delivery and client satisfaction.
+
+In addition to my responsibilities at Accenture, I am also engaged in a UK government-funded project with the Center for Factories of the Future at a renowned research company. Here, I focus on data science, particularly developing predictive models, performing deep data analyses, and creating interactive dashboards. My goal across these roles is to derive actionable insights that empower businesses to make informed decisions and navigate the complexities of the digital age effectively.
 
 ### Projects
-Here are a few highlights from my work:
+Here are a few highlights from my work through internships and Data Science competitions:
 
 - **Enhancing Real-time Space Weather using Complex Deep Learning Techniques**
   ##### Please click the link below to find more about the project
@@ -34,18 +36,14 @@ Here are a few highlights from my work:
   - The escalating phenomenon of Child Sexual Abuse Material (CSAM) link shortening, and modification poses a significant threat in the online sphere. Traditional methods often prove inadequate in addressing this dynamic issue. The CSAMGuard project offers an innovative approach, leveraging machine learning to detect and prevent the propagation of CSAM. This paper delves into the project's background, objectives, key tasks, and the development of the Central CSAM Intelligence System (CCIS). It further explores the validation and assessment processes, evaluating the system's efficacy in real-world scenarios.
   ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/32c06d83-2017-4e86-94cd-df15198ec28e)
 
-  
-
 - **German Used Car Sales Forecasting Model**
   ##### Please click the link below to find more about the project
   #### [Exploring Used Car Listings on ebay in Germany:](usedcarssalesingermany.md)
   - Developed a machine learning model to predict used car sales, enabling the market to optimize price levels.
   - This study investigates the factors influencing used car prices in Germany using a comprehensive Kaggle dataset. By employing machine learning algorithms such as Linear Regression, Decision Tree Regression, Random Forest Regression, and Gradient Boosting Regression, we identify key relationships between car attributes and selling prices. Our findings highlight that the Gradient Boosting Regression model provides the most accurate price predictions, offering valuable insights for optimizing pricing strategies in the used car market.
     ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/39423ea2-bdaf-446e-b0f3-cff65d025dfa)
-    
-    
 
-- **Data Driven Dress Recommendation**
+  - **Data Driven Dress Recommendation**
   - Created a ML model to understand dress sales across different seasons, improving decision-making efficiency.
     
 ### My Mission
