@@ -19,7 +19,8 @@ Here are a few highlights from my work:
   ##### Please click the link below to find more about the project
   #### [Enhancing Real-time Space Weather using Complex Deep Learning Techniques](space_weather_forecasting.md)
   <span style="color: green;">Fascinated about Northern Lights? "Fascinated by the Northern Lights? This aurora phenomenon results from severe solar storms"</span>
-  ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/6cc39076-4eba-4e28-a0bc-836fcb6f141c)
+  ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/c9d156c3-17b5-4be8-833e-fd74f1de2412)
+
 
   - Utilized deep learning algorithms to predict DST index, resulting in accurate solar storm predictions.
   - DST (Disturbance Storm Time) prediction is crucial in space weather forecasting as it quantifies the intensity of geomagnetic storms, which can affect satellite operations, power grids, and navigation systems. Accurate DST forecasting helps mitigate the adverse impacts of geomagnetic disturbances by enabling timely protective measures. This project leverages advanced deep learning techniques to enhance the precision and reliability of DST predictions using real-time solar wind data.
@@ -38,9 +39,9 @@ Here are a few highlights from my work:
 - **German Used Car Sales Forecasting Model**
   ##### Please click the link below to find more about the project
   #### [Exploring Used Car Listings on ebay in Germany:](usedcarssalesingermany.md)
-  ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/39423ea2-bdaf-446e-b0f3-cff65d025dfa)
   - Developed a machine learning model to predict used car sales, enabling the market to optimize price levels.
   - This study investigates the factors influencing used car prices in Germany using a comprehensive Kaggle dataset. By employing machine learning algorithms such as Linear Regression, Decision Tree Regression, Random Forest Regression, and Gradient Boosting Regression, we identify key relationships between car attributes and selling prices. Our findings highlight that the Gradient Boosting Regression model provides the most accurate price predictions, offering valuable insights for optimizing pricing strategies in the used car market.
+    ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/39423ea2-bdaf-446e-b0f3-cff65d025dfa)
     
     
 
