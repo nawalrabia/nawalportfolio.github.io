@@ -35,6 +35,7 @@ Correlation heatmap and TF-IDF technique were employed to analyse the feature im
 •	SMO exhibit lower accuracy and agreement but may have other advantages.
 •	Further model analysis and application development are made using trained Random Forest Classifier
  Plot showing accuracy comparison of different models
+ 
  ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/f3f9206e-faec-4a40-9e5f-d2a5086f0fca)
  ![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/67c830ad-d6af-4d6d-8a52-bf190c11f446)
  
