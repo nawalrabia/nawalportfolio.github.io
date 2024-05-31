@@ -1,5 +1,6 @@
 # Welcome to My GitHub Portfolio!
-![image](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/57c059cd-1225-4975-8740-9cdf2a9bdbcf)
+![IMG_1328](https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/69478007-a275-413e-bc83-135770968122)
+
 
 
 ### About Me
