@@ -1,5 +1,7 @@
 # Welcome to My GitHub Portfolio!
 <img src="https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/d3ed0438-6e3a-4754-b1b6-a64d928d7ca7" alt="IMG_1328" width="300"/>
+
+
 ### About Me
 Hello! I'm a Data Science and Analysis professional with a Master’s degree (Distinction) from Coventry University and over five years of experience at Accenture. My passion lies in transforming complex data into strategic insights that drive impactful business solutions.
 
