@@ -1,5 +1,5 @@
 # Welcome to My GitHub Portfolio!
-<img src="https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/d3ed0438-6e3a-4754-b1b6-a64d928d7ca7" alt="IMG_1328" width="300"/>
+<img src="https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/d3ed0438-6e3a-4754-b1b6-a64d928d7ca7" alt="IMG_1328" width="200"/>
 
 
 ### About Me
@@ -48,6 +48,11 @@ Here are a few highlights from my work through internships and Data Science comp
 
   - **Data Driven Dress Recommendation**
   - Created a ML model to understand dress sales across different seasons, improving decision-making efficiency.
+ 
+  - **Sample Dashboard Created Using Power BI**
+  ![image](https://github.com/user-attachments/assets/a8af4191-0f21-4cfb-9717-6f611473cd80)
+
+  
     
 ### My Mission
 I'm dedicated to pushing the boundaries of data science and machine learning to create innovative solutions. I thrive in environments where I can collaborate with cross-functional teams to translate complex data into strategic insights and drive business success.
