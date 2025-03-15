@@ -3,18 +3,23 @@
 
 
 ### About Me
-Hello! I'm a Data Science and Analysis professional with a Master’s degree (Distinction) from Coventry University and over five years of experience at Accenture. My passion lies in transforming complex data into strategic insights that drive impactful business solutions.
+Hello! I'm a Data Science and Analysis professional with a Master’s degree (Distinction) from Coventry University and currently working at CACI in Digital Operations System Administrator and also hold other five years of experience at Accenture. 
+My passion lies in transforming complex data into strategic insights that drive impactful business solutions.
 
 ### Skills and Expertise
+
 - **Programming Languages:** SQL, Python
 - **Data Visualization:** Tableau, python libraries such as matplotlib, seaborn
 - **Machine Learning & Deep Learning:** Expertise in building, training, and deploying models
 - **Data Analysis:** Strong analytical skills with a knack for uncovering patterns and trends
+- **Incident and Data Management:**
+- **Deployments:**
 
 ### What I Do
-At Accenture, my primary role involves application development and support, focusing on integrating data-driven solutions to enhance business operations. My expertise lies in leveraging complex datasets to build and maintain robust applications that improve service delivery and client satisfaction.
+At CACI, my primary role involves application development and support, focusing on integrating data-driven solutions to enhance business operations. 
+My expertise lies in leveraging complex issues to build and maintain robust applications that improve service delivery and client satisfaction.
 
-In addition to my responsibilities at Accenture, I am also engaged in a UK government-funded project with the Center for Factories of the Future at a renowned research company. Here, I focus on data science, particularly developing predictive models, performing deep data analyses, and creating interactive dashboards. My goal across these roles is to derive actionable insights that empower businesses to make informed decisions and navigate the complexities of the digital age effectively.
+I have also worked in a UK government-funded project with the Center for Factories of the Future at a renowned research company. Here, I focussed on data science, particularly developing predictive models, performing deep data analyses, and creating interactive dashboards. My goal across these roles is to derive actionable insights that empower businesses to make informed decisions and navigate the complexities of the digital age effectively.
 
 ### Projects
 Here are a few highlights from my work through internships and Data Science competitions:
