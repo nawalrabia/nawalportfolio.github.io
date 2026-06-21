@@ -5,7 +5,7 @@
 ### About Me
 Hello! I'm a Cloud Engineer and Data Analysis professional with a Master’s degree (Distinction) from Coventry University and currently working at CACI in Cloud Operations and also hold other five years of experience at Accenture. 
 
-### Skills and Expertise
+### Skills and Expertise utilized in this projects are 
 
 - **Programming Languages:** SQL, Python
 - **Data Visualization:** Tableau, python libraries such as matplotlib, seaborn
