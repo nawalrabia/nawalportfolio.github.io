@@ -1,10 +1,9 @@
-# Welcome to My GitHub Portfolio!
+# Welcome to My GitHub Portfolio! This portfolio describes my Data Science Related Projects which I have completed
 <img src="https://github.com/nawalrabia/nawalportfolio.github.io/assets/120711618/d3ed0438-6e3a-4754-b1b6-a64d928d7ca7" alt="IMG_1328" width="200"/>
 
 
 ### About Me
-Hello! I'm a Data Science and Analysis professional with a Master’s degree (Distinction) from Coventry University and currently working at CACI in Digital Operations System Administrator and also hold other five years of experience at Accenture. 
-My passion lies in transforming complex data into strategic insights that drive impactful business solutions.
+Hello! I'm a Cloud Engineer and Data Analysis professional with a Master’s degree (Distinction) from Coventry University and currently working at CACI in Cloud Operations and also hold other five years of experience at Accenture. 
 
 ### Skills and Expertise
 
